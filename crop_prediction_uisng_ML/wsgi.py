@@ -15,4 +15,4 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE',
                       'crop_prediction_uisng_ML.settings')
 
 application = get_wsgi_application()
-app = application
+
