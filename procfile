@@ -1,1 +1,0 @@
-web: gunicone crop_prediction_uisng_ML.wsgi
