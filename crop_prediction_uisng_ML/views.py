@@ -1,4 +1,4 @@
-# I have created this file - tusharpangare ©
+
 
 import pandas as pd   
 from django.shortcuts import render
